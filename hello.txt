@@ -1,5 +1,2 @@
-hello lmf
-hello lmf
-hello lmf
-hello lmf
-hello lmf
+today is nice.
+this is master write
